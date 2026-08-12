@@ -1,0 +1,6 @@
+{
+  "name": "Speaker Cleaner",
+  "description": "Removes water from speakers using high-frequency sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
